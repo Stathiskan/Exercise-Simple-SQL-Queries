@@ -1,0 +1,2 @@
+# Exercise-Simple-SQL-Queries
+Use the Northwind Demo Database. Write the queries for the following:  Get all columns from the tables Customers, Orders and Suppliers Get all Customers alphabetically, by Country and name Get all Orders by date Get the count of all Orders made during 1997 Get the names of all the contact persons where the person is a manager, alphabetically Get all orders placed on the 19th of May, 1997
